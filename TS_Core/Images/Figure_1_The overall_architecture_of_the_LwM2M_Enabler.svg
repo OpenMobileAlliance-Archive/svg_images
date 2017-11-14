@@ -11,9 +11,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128mm"
-   height="166mm"
-   viewBox="0 0 453.54331 588.18897"
+   width="96.427612mm"
+   height="146.81293mm"
+   viewBox="0 0 341.67264 520.20328"
    id="svg18768"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -47,58 +47,62 @@
     <marker
        inkscape:stockid="Arrow2Lend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow2Lend"
-       style="overflow:visible;"
+       style="overflow:visible"
        inkscape:isstock="true">
       <path
          id="path6637"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(1.1) rotate(180) translate(1,0)" />
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow2Lstart"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow2Lstart"
        style="overflow:visible"
        inkscape:isstock="true">
       <path
          id="path6634"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(1.1) translate(1,0)" />
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow1Lend"
-       style="overflow:visible;"
+       style="overflow:visible"
        inkscape:isstock="true">
       <path
          id="path6619"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow1Lstart"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow1Lstart"
        style="overflow:visible"
        inkscape:isstock="true">
       <path
          id="path6616"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         transform="scale(0.8) translate(12.5,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
     </marker>
     <linearGradient
        inkscape:collect="always"
@@ -106,30 +110,30 @@
        id="linearGradient19759"
        x1="146.37405"
        y1="882.97211"
-       x2="183.39976"
+       x2="183.39977"
        y2="882.97211"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(4.8773009e-8,2.9549608e-6)" />
+       gradientTransform="translate(51.11827,8.8038948)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient19761"
        id="linearGradient19765"
        x1="151.91646"
-       y1="889.55373"
+       y1="889.55371"
        x2="188.94217"
-       y2="889.55373"
+       y2="889.55371"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(4.8773009e-8,2.9549608e-6)" />
+       gradientTransform="translate(51.11827,8.8038948)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient19767"
        id="linearGradient19771"
        x1="199.7198"
-       y1="883.31851"
+       y1="883.31848"
        x2="236.74551"
-       y2="883.31851"
+       y2="883.31848"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(4.8773009e-8,2.9549608e-6)" />
+       gradientTransform="translate(51.11827,8.8038948)" />
     <pattern
        y="0"
        x="0"
@@ -146,8 +150,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4434137"
-     inkscape:cx="124.58334"
-     inkscape:cy="186.69054"
+     inkscape:cx="73.46507"
+     inkscape:cy="127.50876"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -156,7 +160,11 @@
      inkscape:window-height="1018"
      inkscape:window-x="548"
      inkscape:window-y="1192"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata18773">
     <rdf:RDF>
@@ -173,7 +181,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-464.17323)">
+     transform="translate(-51.11827,-472.97712)">
     <rect
        style="opacity:0.95;fill:#000000;fill-opacity:0.01176471;stroke:#000000;stroke-width:2.28299999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect18783"
@@ -323,7 +331,7 @@
          y="662.15222">Device Management &amp; </tspan><tspan
          sodipodi:role="line"
          x="64.165413"
-         y="679.06512"
+         y="680.31061"
          id="tspan19631">Service Enablement -</tspan></text>
     <text
        xml:space="preserve"
@@ -455,54 +463,6 @@
          id="tspan18812-34-5"
          x="178.69557"
          y="986.61981" /></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text19814"
-       y="949.73175"
-       x="77.115822"
-       style="font-style:normal;font-variant:normal;font-weight:400;font-size:15.05128193px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"
-       transform="scale(0.91684643,1.0906952)"><tspan
-         id="tspan19816"
-         y="949.73175"
-         x="77.115822"
-         sodipodi:role="line"><tspan
-           id="tspan19818"
-           style="font-style:normal;font-variant:normal;font-weight:400;font-size:15.05128193px;font-family:'Times New Roman';fill:#000000"
-           dy="0"
-           dx="0">Figure </tspan><tspan
-           id="tspan19820"
-           style="font-style:normal;font-variant:normal;font-weight:400;font-size:15.05128193px;font-family:'Times New Roman';fill:#000000"
-           dy="0"
-           dx="0">1</tspan><tspan
-           id="tspan19822"
-           style="font-style:normal;font-variant:normal;font-weight:400;font-size:15.05128193px;font-family:'Times New Roman';fill:#000000"
-           dy="0"
-           dx="0">: The overall architecture of the </tspan><tspan
-           id="tspan19824"
-           style="font-style:normal;font-variant:normal;font-weight:400;font-size:15.05128193px;font-family:'Times New Roman';fill:#000000"
-           dy="0"
-           dx="1.1677992">L</tspan><tspan
-           id="tspan19826"
-           style="font-style:normal;font-variant:normal;font-weight:400;font-size:15.05128193px;font-family:'Times New Roman';fill:#000000"
-           dy="0"
-           dx="0">w</tspan><tspan
-           id="tspan19828"
-           style="font-style:normal;font-variant:normal;font-weight:400;font-size:15.05128193px;font-family:'Times New Roman';fill:#000000"
-           dy="0"
-           dx="0">M2M</tspan><tspan
-           id="tspan19830"
-           style="font-style:normal;font-variant:normal;font-weight:400;font-size:15.05128193px;font-family:'Times New Roman';fill:#000000"
-           dy="0"
-           dx="0" /><tspan
-           id="tspan19832"
-           style="font-style:normal;font-variant:normal;font-weight:400;font-size:15.05128193px;font-family:'Times New Roman';fill:#000000"
-           dy="0"
-           dx="0">Enabler</tspan><tspan
-           id="tspan19834"
-           style="font-style:normal;font-variant:normal;font-weight:400;font-size:15.05128193px;font-family:'Times New Roman';fill:#000000"
-           dy="0"
-           dx="0" /></tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot19852"
@@ -514,7 +474,7 @@
            height="18.705656"
            x="110.84834"
            y="541.07843" /></flowRegion><flowPara
-         id="flowPara19858"></flowPara></flowRoot>    <flowRoot
+         id="flowPara19858" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot19860"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -525,5 +485,5 @@
            height="17.320053"
            x="122.62597"
            y="521.67999" /></flowRegion><flowPara
-         id="flowPara19866"></flowPara></flowRoot>  </g>
+         id="flowPara19866" /></flowRoot>  </g>
 </svg>

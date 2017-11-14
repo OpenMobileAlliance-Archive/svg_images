@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="142.92741mm"
-   height="47.820389mm"
-   viewBox="0 0 506.43572 169.44232"
+   height="42.342243mm"
+   viewBox="0 0 506.43572 150.03157"
    id="svg20289"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -35,7 +35,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.9924889"
      inkscape:cx="238.75351"
-     inkscape:cy="82.632346"
+     inkscape:cy="63.221584"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -64,7 +64,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-204.15988,-876.96956)">
+     transform="translate(-204.15988,-876.96955)">
     <path
        inkscape:connector-curvature="0"
        id="path20302"
@@ -421,16 +421,5 @@
        id="path20436"
        d="m 305.75801,994.59197 60.69876,0"
        style="fill:none;stroke:#000000;stroke-width:0.35266665px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="405.52295"
-       y="1043.8301"
-       id="text20553"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan20555"
-         x="405.52295"
-         y="1043.8301">Figure 3: Bootstrap</tspan></text>
   </g>
 </svg>
