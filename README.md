@@ -6,4 +6,4 @@ Creation of .svg Images see https://wiki.openmobilealliance.org/display/OWG/Crea
 
 <figure src="test4.svg" Alt"title">
   <figcaption>title</figcaption>
-  </figure>
+</figure>
