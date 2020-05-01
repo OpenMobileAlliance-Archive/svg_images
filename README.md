@@ -13,3 +13,8 @@ Creation of .svg Images see https://wiki.openmobilealliance.org/display/OWG/Crea
 	<img src="images/omp_governance.svg" alt="OMP Governance Structure">
 	<figcaption>OMP Governance Structure</figcaption>
 </figure>
+
+<figure>
+	<img src="images/test10.svg" alt="OMP Governance Structure">
+	<figcaption>OMP Governance Structure</figcaption>
+</figure>
